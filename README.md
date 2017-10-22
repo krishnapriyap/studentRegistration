@@ -1,2 +1,2 @@
 # studentRegistration
-Student Registration Website.
+Student Registration Website
